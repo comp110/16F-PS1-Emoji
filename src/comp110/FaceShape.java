@@ -10,6 +10,7 @@ public class FaceShape {
 
   // Constructor
   public FaceShape(Color tone) {
+    // Initialization of instance variables happens in the constructor.
     _tone = tone;
   }
 
